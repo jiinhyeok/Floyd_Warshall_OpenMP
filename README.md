@@ -1,2 +1,1 @@
-# OpenMP_Floyd-Warshall_C-
-Parallelization of Floyd-Warshall algorithm using openmp
+## Parallel floyd-warshall algorithm using openmp for NxN undirected graph
